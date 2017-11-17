@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1510849079 source:c:\users\jonat\desktop\module donnée\module donnée\actions.c
+
+1510849502 source:c:\users\jonat\desktop\module donnée\module donnée\donnees.c
+	<stdio.h>
+
+1510848736 source:c:\users\jonat\desktop\module donnée\module donnée\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"donnees.h"
+	"menu.h"
+	"actions.h"
+
+1510843658 c:\users\jonat\desktop\module donnée\module donnée\donnees.h
+
+1510842202 c:\users\jonat\desktop\module donnée\module donnée\menu.h
+
+1510848557 c:\users\jonat\desktop\module donnée\module donnée\actions.h
+
+1510849583 source:c:\users\jonat\desktop\module donnée\module donnée\menu.c
+	<stdio.h>
+	"donnees.h"
+	"actions.h"
+
+1510849079 source:c:\users\thomas\desktop\module donnée\actions.c
+
+1510907263 source:c:\users\thomas\desktop\module donnée\menu.c
+	<stdio.h>
+	"donnees.h"
+	"actions.h"
+
+1510909064 c:\users\thomas\desktop\module donnée\donnees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1510848557 c:\users\thomas\desktop\module donnée\actions.h
+
+1510909553 source:c:\users\thomas\desktop\module donnée\donnees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"donnees.h"
+
+1510909943 source:c:\users\thomas\desktop\module donnée\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"donnees.h"
+	"menu.h"
+	"actions.h"
+
+1510842202 c:\users\thomas\desktop\module donnée\menu.h
+
